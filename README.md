@@ -2,7 +2,7 @@
 
 Mystic Flow animation for WS2812B LED strip using an Arduino and the FastLED library.  
 
-See YouTube video here: https://youtu.be/a9XEHuP377g  
+See YouTube video here: https://youtu.be/0CiT6SRJJDs  
 Electriangle YouTube Channel: https://www.youtube.com/@Electriangle  
 
 How to retrieve and upload the source code:  
